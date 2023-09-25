@@ -109,7 +109,7 @@ namespace BankTransaction
             Console.WriteLine("Digite o Saldo inicial: ");
             double entradaSaldo = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o Saldo inicial: ");
+            Console.WriteLine("Digite o Crédito inicial: ");
             double entradaCredito = double.Parse(Console.ReadLine());
 
             Conta novaConta = new Conta(tipoConta: (TipoConta)entradaTipoConta,
