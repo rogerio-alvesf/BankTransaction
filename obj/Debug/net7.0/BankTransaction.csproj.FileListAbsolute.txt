@@ -1,0 +1,14 @@
+H:\Documentos\Projetos\BankTransaction\bin\Debug\net7.0\BankTransaction.exe
+H:\Documentos\Projetos\BankTransaction\bin\Debug\net7.0\BankTransaction.deps.json
+H:\Documentos\Projetos\BankTransaction\bin\Debug\net7.0\BankTransaction.runtimeconfig.json
+H:\Documentos\Projetos\BankTransaction\bin\Debug\net7.0\BankTransaction.dll
+H:\Documentos\Projetos\BankTransaction\bin\Debug\net7.0\BankTransaction.pdb
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\BankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\BankTransaction.AssemblyInfoInputs.cache
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\BankTransaction.AssemblyInfo.cs
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\BankTransaction.csproj.CoreCompileInputs.cache
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\BankTransaction.dll
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\refint\BankTransaction.dll
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\BankTransaction.pdb
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\BankTransaction.genruntimeconfig.cache
+H:\Documentos\Projetos\BankTransaction\obj\Debug\net7.0\ref\BankTransaction.dll
